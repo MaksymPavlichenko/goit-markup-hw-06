@@ -639,6 +639,70 @@ a {
     margin-right: 10px;
 }
 
+.send {
+    display: flex;
+}
+.send-form {
+    margin-left: 93px;
+}
+   
+.send-title {
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+    color: var(--bg-main);
+    
+    text-align: start;
+}
+  
+.send-wraper {
+    display: flex;
+}
+   
+.send-btn {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    box-shadow: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.06em;
+    display: inline-block;
+    padding: 10px 32px;
+    margin-left: 12px;
+    min-width: 200px;
+    min-height: 50px;
+  
+    color: var(--bg-main);
+    background-color: var(--selection-color);
+   
+    border: 1px solid transparent;
+   
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.icon-send {
+    margin-left: 10px;
+}
+
+.send-input {
+    width: 358px;
+    height: 50px;
+    background-color: inherit;
+   
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+    padding: 15px;
+    color: var(--bg-main);
+}
+
 /*----Портфолио----*/
 
 .portfolio-section {
