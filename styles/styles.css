@@ -424,7 +424,7 @@ a {
 .modal-privacy-input:checked + .modal-privacy-input-text span {
     background-color: var(--selection-color);
     border-color: var(--selection-color);
-    fill: var(--selection-color);
+    fill: var(--bg-main);
   }
 
 .modal-privacy-input-text {
