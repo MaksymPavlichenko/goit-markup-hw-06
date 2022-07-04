@@ -424,7 +424,7 @@ a {
     width: 16px;
     height: 15px;
     box-sizing: border-box;
-    
+
     border: 2px solid var(--dark-text);
     border-radius: 3px;
 
@@ -858,6 +858,7 @@ a {
 
 .icon-send {
     margin-left: 10px;
+    fill: var(--bg-main);
 }
 
 .send-input {
