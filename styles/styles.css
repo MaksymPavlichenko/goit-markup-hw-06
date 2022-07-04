@@ -416,7 +416,7 @@ a {
     margin-bottom: 30px;
 }
 
-.modal-field-checkbox:focus-within .check-icon {
+.modal-privacy:focus-within .check-icon {
     border-color: var(--selection-color);
 }
 
