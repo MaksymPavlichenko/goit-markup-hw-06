@@ -381,7 +381,7 @@ a {
     border-color: var(--selection-color);
 }
 
-.modal-input:focus + .icon-input {
+.modal-input:focus + .modal-icon {
     fill: var(--selection-color);
   }
 
