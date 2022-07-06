@@ -11,9 +11,6 @@
     --icon-company-fill: #afb1b8;
 }
 
-*, ::after, ::before {
-    box-sizing: border-box;
-}
 
 body {
     font-family: "Roboto", sans-serif;
